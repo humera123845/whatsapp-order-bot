@@ -13,7 +13,7 @@ when they place an order on a website.
 - Python
 - Flask
 - Twilio WhatsApp API
-- Deployed on Render
+- Deployed on Replit
 
 ## Webhook URL
-https://whatsapp-order-bot.onrender.com/webhook
+https://flask-webhook--saimmehboob2012.replit.app/webhook
